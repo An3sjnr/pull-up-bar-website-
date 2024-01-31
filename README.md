@@ -50,7 +50,7 @@
         <p>Turn your doorway into a personal fitness center.</p>
     </header>
     <div class="container">
-        <img class="product-image" src="pull_up_bar.jpg" alt="DoorFrame Pull-Up Bar">
+        <img class="product-image" website 1 toets/pull_up_bar.jpg" alt="DoorFrame Pull-Up Bar">
         <div class="product-description">
             <h2>Features:</h2>
             <ul>
